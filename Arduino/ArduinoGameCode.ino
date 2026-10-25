@@ -7,7 +7,7 @@
 #include <MQTTClient.h>
 #include <LiquidCrystal_I2C.h>
 
-const char WIFI_SSID[] = "";        // ต้องเป็น WiFi 2.4 GHz
+const char WIFI_SSID[] = "";        // ใส่ WIFI และต้องเป็น WiFi 2.4 GHz
 const char WIFI_PASS[] = "";
 
 const char BROKER[] = "mqtt-dashboard.com";   // broker
