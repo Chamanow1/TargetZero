@@ -1,17 +1,22 @@
 # Physical Computing Project 2026 - IT KMITL
 
 ## TargetZero
-- Project นี้เป็นส่วนหนึ่งในรายวิชา Physical Computing รหัสวิชา 06016409 ภาคเรียนที่ 1 ปีการศึกษา 2569 ของคณะเทคโนโลยีสารสนเทศ\
+- Project นี้เป็นส่วนหนึ่งในรายวิชา Physical Computing รหัสวิชา 06016409 ภาคเรียนที่ 1 ปีการศึกษา 2569 ของคณะเทคโนโลยีสารสนเทศ
   สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
 ## บทคัดย่อ
-- เกมวัดระยะทางจาก Arduino โปรเจกต์นี้เป็นเกมที่จะสุ่มค่าระยะทางจาก Ultrasonic Sensor มาแสดงที่ LCD เพื่อให้ผู้เล่นกะระยะทาง\
+- เกมวัดระยะทางจาก Arduino โปรเจกต์นี้เป็นเกมที่จะสุ่มค่าระยะทางจาก Ultrasonic Sensor มาแสดงที่ LCD เพื่อให้ผู้เล่นกะระยะทาง
   และนำมาหักลบกับค่าที่สุ่มให้ เพื่อให้ได้เลข 0 หรือค่าใกล้เคียงออกมา หากได้ค่าติดลบถือว่าแพ้ไปในเกมนี้
 
 ## อุปกรณ์และ Library ที่ใช้
 - **อุปกรณ์**
+  - <img src="Assets/Equipments/Arduino R4.jpg" alt="ArduinoR4" width="200"/>
+  - <img src="Assets/Equipments/breadboard.jpg" alt="breadboard" width="200"/>
+  - <img src="Assets/Equipments/lcd.jpg" alt="LCD" width="200"/>
 - **Library**
-
+  - WiFiS3.h
+  - MQTTClient.h
+  - LiquidCrystal_I2C.h
 ## Website
 [TargetZero](https://chamanow1.github.io/TargetZero/)
 ## Poster
