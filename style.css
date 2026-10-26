@@ -326,7 +326,7 @@ input[type=range] {
 }
 
 #log {
-    height: 120px;
+    height: 450px;
     overflow: auto;
     font-size: 13px;
     color: var(--mut);
