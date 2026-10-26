@@ -10,9 +10,14 @@
 
 ## อุปกรณ์และ Library ที่ใช้
 - **อุปกรณ์**
-  - <img src="Assets/Equipments/Arduino R4.jpg" alt="ArduinoR4" width="200"/>
-  - <img src="Assets/Equipments/breadboard.jpg" alt="breadboard" width="200"/>
-  - <img src="Assets/Equipments/lcd.jpg" alt="LCD" width="200"/>
+  - Arduino R4 WIFI
+    - <img src="Assets/Equipments/Arduino R4.jpg" alt="ArduinoR4" width="200"/>
+  - BreadBoard
+    - <img src="Assets/Equipments/breadboard.jpg" alt="breadboard" width="200"/>
+  - LCD
+    - <img src="Assets/Equipments/lcd.jpg" alt="LCD" width="200"/>
+  - Ultrasonic sensor
+    - <img src="Assets/Equipments/Ultrasonisensor.jpg" alt="Ultrasonicsensor" width="200"/>
 - **Library**
   - WiFiS3.h
   - MQTTClient.h
