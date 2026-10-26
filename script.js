@@ -132,19 +132,8 @@ function end(won,rem,timeout){
   $('sBest').textContent=S.best;
 }
 
-function nextpage(){
-  window.location.href = 'index2.html';
-}
-
-function returnpage(){
-  window.location.href = 'index.html';
-}
-
-
 $('start').onclick=startGame;
 $('lock').onclick=lockValue;
-$('next').onclick=nextpage;
-$('return').onclick=returnpage;
 
 addEventListener('keydown',e=>{
   const tg=e.target.tagName;
