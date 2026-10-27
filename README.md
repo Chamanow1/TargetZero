@@ -22,9 +22,12 @@
   - WiFiS3.h
   - MQTTClient.h
   - LiquidCrystal_I2C.h
+  
 ## Website
 [TargetZero](https://chamanow1.github.io/TargetZero/)
+
 ## Poster
+<img src="Assets/TargetZeroPoster.jpg" alt="Poster" width="500"/>
 
 ## Video
 
