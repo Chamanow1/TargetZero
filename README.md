@@ -30,6 +30,8 @@
 
 ## Video
 
+[![ดูวิดีโอบน YouTube](https://img.youtube.com/vi/FP0ot5-cXIQ/hqdefault.jpg)](https://youtu.be/FP0ot5-cXIQ)
+
 ## สมาชิก
 | ID | ชื่อ-นามสกุล | งานที่รับผิดชอบ | รูป |
 | -- | ---------- | -------------| --| 
